@@ -7,7 +7,7 @@
 
 https://unknowncmds.github.io
 
-Link do Papers with Code
+Link do Papers with Code:
 https://paperswithcode.com/paper/metagame-autobalancing-for-competitive
 
 Repozytorium sforkowane:
